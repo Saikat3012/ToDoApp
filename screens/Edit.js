@@ -77,7 +77,7 @@ const Edit = ({navigation, route}) => {
     return(
         <Container style={styles.container}>
             <ScrollView contentContainerStyle={{flexGrow:1}}>
-                <H1 style={styles.heading}>Add to watch List</H1>
+                <H1 style={styles.heading}>Edit Taks Details</H1>
                 <Form>
                     <Item rounded style={styles.formItem}>
                         <Input
